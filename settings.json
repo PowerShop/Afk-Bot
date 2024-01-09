@@ -1,8 +1,8 @@
 {
     "bot-account":{ 
-        "username": "bot",
+        "username": "botcito",
         "password": "",
-        "type": ""
+        "type": "mojang"
     },
 
     "server":{
